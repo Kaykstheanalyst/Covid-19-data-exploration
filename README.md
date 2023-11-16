@@ -18,6 +18,15 @@ The datasets used for the analysis can be downloaded here [CovidDeaths.xlsx](htt
 - Data Exploration
 
 ## Insight 
+- The data exploration reveals that the United States has the highest infected peprsons in the world witha number of 576232,
+  with a very wide margin compared to the other like Brazil which comes second. 
+- Europe as a continent has the highest number of deaths as a result of the pandemic compared to other continent in the
+  world followed by North America
+- The total number of deaths experienced during the pandemic was estimated at 3,180,206
+
+## Data Visualization Dashboard
+
+![Screenshot (24)](https://github.com/Kaykstheanalyst/Covid-19-dataset/assets/150609177/a9426cd0-b306-44c4-9996-65562dfdd76e)
 
 
 ## Queries

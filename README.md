@@ -10,7 +10,7 @@ The datasets used for the analysis can be downloaded here [CovidDeaths.xlsx](htt
 
 ## Tools
 - Microsoft Excel- Data cleaning 
-- SSMS Data Exploration, Data Analysis
+- SSMS- Data Exploration, Data Analysis
 
 ## Skills demonstrated
 - Data Cleaning
@@ -18,8 +18,8 @@ The datasets used for the analysis can be downloaded here [CovidDeaths.xlsx](htt
 - Data Exploration
 
 ## Insight 
-- The data exploration reveals that the United States has the highest infected peprsons in the world witha number of 576232,
-  with a very wide margin compared to the other like Brazil which comes second. 
+- The data exploration reveals that the United States has the highest infected peprsons in the world with a number of 576232
+  and a very wide margin compared to the other like Brazil which comes second. 
 - Europe as a continent has the highest number of deaths as a result of the pandemic compared to other continent in the
   world followed by North America
 - The total number of deaths experienced during the pandemic was estimated at 3,180,206

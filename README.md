@@ -1,8 +1,8 @@
 # Covid-19-dataset
 
 ## Overview
-In this project, Covid-19 dataset was used for detailed exploration and the data reveal quite a lot of insightful information.
-The exploration reveals countries and conntinent with high number of infected persons alongside the number of death caused 
+In this project, Covid-19 dataset was used for detailed exploration and the data reveals quite a lot of insightful information.
+The exploration reveals countries and continent with high number of infected persons alongside the number of death caused 
 by the pandemic and the number of vaccinnated persons.
 
 ## Data Source
